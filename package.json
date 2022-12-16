@@ -1,0 +1,14 @@
+{
+    "name": "@shamala/firstpackage",
+    "version": "1.0.0",
+    "description": "Mangling string",
+    "license": "none",
+    "repository": "shamala/mangling",
+    "main": "index.js",
+    "keywords": [
+        "shamala",
+        "npm",
+        "package",
+        "mangling"
+    ]
+}
